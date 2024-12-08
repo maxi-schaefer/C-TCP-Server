@@ -12,4 +12,4 @@ make
 ## Screenshots
 ![](./assets/login.png)
 ![](./assets/server.png)
-![](./assets/commands.png.png)
+![](./assets/commands.png)
