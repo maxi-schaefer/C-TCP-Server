@@ -9,6 +9,11 @@ make
 ./server
 ```
 
+## How to Connect:
+```bash
+telnet localhost 6969
+```
+
 ## Screenshots
 ![](./assets/login.png)
 ![](./assets/server.png)
